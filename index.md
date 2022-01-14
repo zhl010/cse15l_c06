@@ -41,6 +41,9 @@ This is Zac
 
 <img src="cse15l_test.png" width="100"/>
 
+
+* img src="name of image" width="num width"/ (put in a bracket)
+
 Above is how to change the size of image
 
 
