@@ -46,6 +46,8 @@ This is Zac
 
 Above is how to change the size of image
 
+[Link](https://ucsd-cse15l-w22.github.io/weeks/)
+
 
 
 
