@@ -37,7 +37,11 @@ This is Zac
 ```
 ---
 ---
-~this is the slashed part~
+~~this is the slashed part~~
+
+<img src="cse15l_test.png" width="100"/>
+
+Above is how to change the size of image
 
 
 
