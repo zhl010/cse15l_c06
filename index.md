@@ -27,7 +27,9 @@ This is Zac
 |morning|toast|
 |noon|pancake|
 |night|hot pot|
+|![Image](cse15l_test.png)|
 
+![Image](cse15l_test.png)
 ```java
 
     system.out.print("what")
@@ -37,7 +39,7 @@ This is Zac
 ---
 ~this is the slashed part~
 
-![Image](cse15l_test.png)
+
 
 
 
